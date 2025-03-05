@@ -1,0 +1,5 @@
+objectid,filename,title,description,type,dimensions,pages,location found,date found,identifier,display_template,object_location,image_small,image_thumb,image_alt_text
+a0001,a0001_washburn-deeds-list.jpg,Deed List,A 1919 deed that describes the plot of land,document,8.5"x11",1,TV Room,February 2, 2025,a0001,image,/objects/a0001_washburn-deeds-list.jpg,/objects/a0001_washburn-deeds-list.jpg,/objects/a0001_washburn-deeds-list.jpg,alt
+a0002,a0002_washburn-sullivan-deed.jpg,Sullivan Deed,description,document,dimensions,1,TV Room,February 2, 2025,a0002,image,/objects/a0002_washburn-sullivan-deed.jpg,/objects/a0002_washburn-sullivan-deed.jpg,/objects/a0002_washburn-sullivan-deed.jpg,alt
+a0003,a0003_washburn-diagram.jpg,Neighborhood Diagram,description,document,dimensions,1,TV Room,February 2, 2025,a0003,image,/objects/a0003_washburn-diagram.jpg,/objects/a0003_washburn-diagram.jpg,/objects/a0003_washburn-diagram.jpg,alt
+a0004,a0004_washburn-note.jpg,Mazelle Washburn Note,description,document,dimensions,1,TV Room,February 2, 2025,a0004,image,/objects/a0004_washburn-note.jpg,/objects/a0004_washburn-note.jpg,/objects/a0004_washburn-note.jpg,alt
